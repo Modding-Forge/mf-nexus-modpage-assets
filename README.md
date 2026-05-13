@@ -1,0 +1,1 @@
+# mf-nexus-modpage-assets
